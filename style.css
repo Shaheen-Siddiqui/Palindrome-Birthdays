@@ -1,0 +1,58 @@
+h1:hover{
+    color:palevioletred;
+}
+body{
+    display:block;
+    margin: auto;
+    
+}
+h1{
+    font-size: 30px;
+    margin-top: 2rem;
+    color:blue;
+   text-align: center;
+}
+img{
+    overflow: hidden;
+    margin-top: -10px;
+    width: 1350px;
+    height: 250px;
+}
+input{
+    margin-top: -10rem;
+    display: block;
+    margin: auto;
+    padding: 1rem 3rem;
+    border-radius: 1rem;
+    font-size: 1rem;
+    background-color: aqua;
+    color: blue;
+}
+button:hover{
+    background-color:pink;
+}
+button{
+    display: block;
+    margin: auto    ;
+    padding:0.5rem 2rem;
+    background-color: blue;
+    font-size: 1rem;
+    color:black;
+    border-radius: 0.5rem;
+}
+p{
+    display: block;
+    margin: auto;
+    font-size: 20px;
+    font-style: italic;
+    
+
+}
+#output{
+    padding: 0.5rem;
+    text-align: center;
+    height: 50px;
+    width: 550px;
+    border: 2px solid black;
+    border-radius: 0.5rem;
+}
